@@ -3,7 +3,7 @@
 #include<time.h>//为了使用time函数
 #include<conio.h>//为了使用getch函数和kbhit函数
 
-int pointa=1000;//pa&pb储存的是万家和对手的积分
+int pointa=1000;//pa&pb储存的是玩家和对手的积分
 int pointb=1000;
 int a,b;//a为下注数额，b为下注类型
 int x, y ,z ;//x,y,z是随机出来的三颗骰子的点数
